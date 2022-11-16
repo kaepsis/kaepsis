@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Hiken Studio](https://discord.gg/Dth5SSMhRr)
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact: I'm too lazy to do anything 😂
+- 🔭 I’m currently not working on anything cool, only private and boring things
+- 🌱 I’m currently improving my Java learning
+- ⚡ If something is hard, I'll do it
 - Current State:
 
 ![](https://i.imgur.com/LAdLk5y.png)
