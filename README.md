@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaepsis</h1>
-<h3 align="center">A self-taught programmer who dreams of becoming a software developer</h3>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:32A5E7,100:00C1FF&text=Kaepsis&fontAlignY=30&textBg=false&desc=Sviluppatore%20plugin%20Minecraft%20e%20bot%20Discord&descAlignY=60"  alt="header banner"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaepsis&label=Profile%20views&color=0e75b6&style=flat" alt="kaepsis" /> </p>
 
