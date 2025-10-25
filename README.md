@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:32A5E7,100:00C1FF&text=Kaepsis&fontAlignY=30&textBg=false&desc=Sviluppatore%20plugin%20Minecraft%20e%20bot%20Discord&descAlignY=60"  alt="header banner"/> </p>
 
 - Attualmente lavoro con [martyxoxo](https://twitch.tv/martyxoxotv)
-- In costante miglioramento con **Java**
+- In costante miglioramento con **Java**, **Python3**, **MySQL**
 - Aggiungimi su Discord ➠ @kaepsis
 
 <h3 align="left">Tecnologie</h3>
